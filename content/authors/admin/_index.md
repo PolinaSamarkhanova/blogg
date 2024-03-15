@@ -36,11 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - специальность: Фортепиано, Музыкальная школа
-      год: 2020
-    - школа: Лицей9, г. Сибай
-      год: 2023
-    - вуз: РУДН, Компьютерные и информационные науки
+    - course: Фортепиано
+      institution: Музыкальная школа
+      year: 2020
+    - course: среднее образование
+      institution: Лицей9, г. Сибай
+      year: 2023
+    - course:  Компьютерные и информационные науки
+      institution: РУДН
+      year: 2027
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
